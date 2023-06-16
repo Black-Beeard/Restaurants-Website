@@ -4,6 +4,7 @@ import { useState } from 'react';
 
 const Food = () => {
     // console.log(data);
+    // sagol
     const [foods, setFoods] = useState(data);
 
     // Filter Type Burgers/Pizza/etc
